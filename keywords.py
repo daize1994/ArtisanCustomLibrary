@@ -12,7 +12,7 @@ sys.setdefaultencoding('utf8')
 
 class MyCustomLibrary():
     '''
-    这个是ov的一个自定义库,bug挺多,请见谅
+    这个是ov的一个自定义库,bug挺多,够用就行,请见谅
     '''
 
     def postJson(self,jsonfile,url,url_dir="/crash",):
